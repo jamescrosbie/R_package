@@ -1,4 +1,3 @@
-library(dplyr)
 
 chisq_wrapper <- function(tbl, var, treatment) {
 
